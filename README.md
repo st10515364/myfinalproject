@@ -7,3 +7,4 @@ The app checks the users answer and immediately gives them feedback whether itâ€
 true or false then the user should press the next button to go to the next question up 
 until the last question which is question 5. After the user has completed the questions, 
 the app navigates to the last screen (Screen 3) which displays the users score alongwith a message based on the userâ€™s performance.
+![image alt](https://github.com/st10515364/myfinalproject/blob/ab305fd07c43058e863e9f6366af843889e0be43/Screenshot%202026-04-23%20172154.png)
